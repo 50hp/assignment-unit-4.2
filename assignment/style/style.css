@@ -1,5 +1,43 @@
+body{
+    background-attachment: fixed;
+    background: #8a1253; 
+ 
 
+}
 
+header {
+    background-color: #e8751a; 
+    text-align: center;
+}
+
+.info{
+    margin-left:auto;
+}
+h2 {
+    text-align: center;
+    background-color: #c51350;
+    color: #fda403;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h3 {
+    text-align: center;
+    background-color: #c51350;
+    color: #fda403;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.Car {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 
 
